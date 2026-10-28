@@ -1,0 +1,2713 @@
+{
+ "pujas": [
+  {
+   "slug": "radha-krishna-yugal-puja",
+   "title": "Shri Radha Krishna Yugal Sarkar Puja",
+   "subtitle": "For love, harmony & a blessed married life",
+   "ribbon": "KARTIK MAAS SPECIAL",
+   "deity": "Vishnu",
+   "purposes": [
+    "Marriage",
+    "Peace"
+   ],
+   "templeSlug": "barsana-radha-rani",
+   "date": "REL:1:7:0",
+   "tithi": "Kartik Krishna Chaturthi",
+   "devotees": 2715,
+   "featured": true,
+   "images": [
+    "/assets/images/puja/radha-krishna.webp",
+    "/assets/images/deity/vishnu.webp",
+    "/assets/images/temple/barsana.webp",
+    "/assets/images/chadhava/flower-garland.webp"
+   ],
+   "about": [
+    {
+     "q": "What is the Yugal Sarkar Puja?",
+     "a": "Yugal Sarkar means the divine couple — Shri Radha and Shri Krishna worshipped together. The puja asks for the selfless love of Radha–Krishna to bless your own relationships."
+    },
+    {
+     "q": "Why at Barsana?",
+     "a": "Barsana is Shri Radha's own village. Devotees believe that a prayer offered through Radha Rani reaches Shri Krishna immediately."
+    },
+    {
+     "q": "Why in the month of Kartik?",
+     "a": "Kartik is called Damodar Maas and is the dearest month to Radha–Krishna. Lamps and worship offered in Kartik are said to give manifold merit."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Harmony in marriage",
+     "desc": "Couples pray for patience, understanding and affection in their married life.",
+     "icon": "Heart"
+    },
+    {
+     "title": "Early, suitable match",
+     "desc": "Families perform it for sons and daughters awaiting a good alliance.",
+     "icon": "Users"
+    },
+    {
+     "title": "Bhakti & inner peace",
+     "desc": "Kirtan and naam-jap during the puja bring calm and devotion to the home.",
+     "icon": "Music"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Yugal Abhishek & Shringar",
+     "desc": "Radha–Krishna are bathed with panchamrit, dressed in new poshak and offered 56 bhog items."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "Can unmarried devotees book this puja?",
+     "a": "Yes. Many devotees book it while praying for a suitable life partner; mention this in the wish field while booking."
+    }
+   ],
+   "addOns": [
+    "akhand-jyoti",
+    "tulsi-archana",
+    "gau-grass-seva",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Devotee",
+     "persons": 1,
+     "price": 951,
+     "strike": 1241,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 1351,
+     "strike": 1761,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 2101,
+     "strike": 2731,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 3101,
+     "strike": 4031,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:0:23:30"
+  },
+  {
+   "slug": "kaal-sarp-dosh-nivaran",
+   "title": "Kaal Sarp Dosh Nivaran Puja",
+   "subtitle": "To ease delays and obstacles caused by Rahu–Ketu",
+   "ribbon": "TRIMBAKESHWAR VIDHI",
+   "deity": "Navagraha",
+   "purposes": [
+    "Career",
+    "Peace"
+   ],
+   "templeSlug": "trimbakeshwar",
+   "date": "REL:2:8:0",
+   "tithi": "Kartik Krishna Panchami",
+   "devotees": 4120,
+   "featured": true,
+   "images": [
+    "/assets/images/puja/navagraha.webp",
+    "/assets/images/temple/trimbakeshwar.webp",
+    "/assets/images/puja/yagna.webp"
+   ],
+   "about": [
+    {
+     "q": "What is Kaal Sarp Dosh?",
+     "a": "In Vedic astrology, Kaal Sarp Dosh is said to form when all seven planets sit between Rahu and Ketu in the birth chart. It is associated with repeated delays, sudden setbacks and unrest."
+    },
+    {
+     "q": "Why is Trimbakeshwar chosen?",
+     "a": "Trimbakeshwar is traditionally regarded as the foremost place for Kaal Sarp shanti, performed at the source of the Godavari by hereditary pandits."
+    },
+    {
+     "q": "Do I need my horoscope?",
+     "a": "It helps but is not required. If you have it, share your date, time and place of birth while booking and our astrologer will note the dosh type."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Fewer obstacles",
+     "desc": "Devotees pray for stuck work, promotions and business deals to move forward.",
+     "icon": "Briefcase"
+    },
+    {
+     "title": "Calm mind",
+     "desc": "The puja is performed to quieten fear, bad dreams and restlessness.",
+     "icon": "Brain"
+    },
+    {
+     "title": "Rahu–Ketu shanti",
+     "desc": "Naag pujan and Rahu–Ketu mantras are offered to pacify both shadow planets.",
+     "icon": "Orbit"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Navagraha Sthapana",
+     "desc": "The nine planets are installed and worshipped with their own grains and colours."
+    },
+    {
+     "title": "Naag Pujan & Rahu–Ketu Havan",
+     "desc": "Silver naag–naagin are worshipped and Rahu–Ketu mantras are offered into the havan."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "How many times should this puja be done?",
+     "a": "Once is traditionally considered sufficient. Some families repeat it on Naag Panchami for added peace of mind."
+    }
+   ],
+   "addOns": [
+    "akhand-jyoti",
+    "sadhu-bhandara",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Kundli",
+     "persons": 1,
+     "price": 2101,
+     "strike": 2731,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 2601,
+     "strike": 3381,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 3501,
+     "strike": 4551,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 4501,
+     "strike": 5851,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:1:22:0"
+  },
+  {
+   "slug": "shani-sade-sati-shanti",
+   "title": "Shani Sade Sati & Dhaiya Shanti Puja",
+   "subtitle": "For relief from Shani's testing phase",
+   "ribbon": "SHANIVAR VISHESH",
+   "deity": "Shani",
+   "purposes": [
+    "Career",
+    "Protection"
+   ],
+   "templeSlug": "shani-shingnapur",
+   "date": "REL:3:7:0",
+   "tithi": "Kartik Krishna Shashthi",
+   "devotees": 3388,
+   "featured": false,
+   "images": [
+    "/assets/images/puja/shani-dev.webp",
+    "/assets/images/deity/shani.webp",
+    "/assets/images/temple/shani-shingnapur.webp",
+    "/assets/images/chadhava/mustard-oil.webp"
+   ],
+   "about": [
+    {
+     "q": "What is Sade Sati?",
+     "a": "Sade Sati is the roughly seven-and-a-half-year period when Shani transits the moon sign and the signs on either side of it. Dhaiya is a shorter two-and-a-half-year phase."
+    },
+    {
+     "q": "Why at Shani Shingnapur?",
+     "a": "Shani Dev is present here as a self-manifested stone. A mustard oil abhishek here on a Saturday is considered especially pleasing to him."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Steadier career",
+     "desc": "Devotees pray for relief from job loss, delays and conflicts at work.",
+     "icon": "Scale"
+    },
+    {
+     "title": "Protection",
+     "desc": "Shani is the lord of karma; the puja asks for his protection and fairness.",
+     "icon": "ShieldCheck"
+    },
+    {
+     "title": "Discipline & patience",
+     "desc": "Shani's blessing is believed to bring endurance during difficult years.",
+     "icon": "Trophy"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Til–Tel Abhishek & Shani Stotra",
+     "desc": "Mustard oil and black til are offered to Shani Dev while Dashrath-krit Shani Stotra is recited."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [],
+   "addOns": [
+    "akhand-jyoti",
+    "sadhu-bhandara",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Devotee",
+     "persons": 1,
+     "price": 801,
+     "strike": 1041,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 1201,
+     "strike": 1561,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 1951,
+     "strike": 2541,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 2951,
+     "strike": 3841,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:2:22:0"
+  },
+  {
+   "slug": "lakshmi-narayan-satyanarayan-katha",
+   "title": "Lakshmi Narayan Puja & Satyanarayan Katha",
+   "subtitle": "For prosperity, stability & a peaceful home",
+   "ribbon": "GHAR SUKH-SHANTI",
+   "deity": "Lakshmi",
+   "purposes": [
+    "Wealth",
+    "Peace"
+   ],
+   "templeSlug": "mayapur-chandrodaya",
+   "date": "REL:4:18:0",
+   "tithi": "Kartik Krishna Saptami",
+   "devotees": 2954,
+   "featured": true,
+   "images": [
+    "/assets/images/puja/satyanarayan.webp",
+    "/assets/images/deity/lakshmi.webp",
+    "/assets/images/temple/mayapur.webp",
+    "/assets/images/hero/diya-rangoli.webp"
+   ],
+   "about": [
+    {
+     "q": "What is the Satyanarayan Katha?",
+     "a": "The Satyanarayan Katha from the Skanda Purana tells how worship of Narayan as the embodiment of truth brings fortune to those who keep their word."
+    },
+    {
+     "q": "Why worship Lakshmi with Narayan?",
+     "a": "Maa Lakshmi stays where Narayan is worshipped. Worshipping them together is believed to bring wealth that is stable and used rightly."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Steady income",
+     "desc": "Families pray for growth in business and a reliable flow of income.",
+     "icon": "Coins"
+    },
+    {
+     "title": "Peace at home",
+     "desc": "The katha is traditionally read to keep harmony among family members.",
+     "icon": "House"
+    },
+    {
+     "title": "Fulfilled vows",
+     "desc": "Many devotees perform it as thanksgiving after a wish comes true.",
+     "icon": "HandCoins"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Lakshmi Narayan Pujan",
+     "desc": "Shri Lakshmi Narayan are worshipped with lotus, tulsi and yellow flowers."
+    },
+    {
+     "title": "Satyanarayan Katha (5 adhyay)",
+     "desc": "All five chapters of the katha are recited, followed by panchamrit and sheera prasad."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "Can I listen to the katha live?",
+     "a": "The katha is recorded and shared with your puja video. You may read the katha at home at the same time if you wish."
+    }
+   ],
+   "addOns": [
+    "akhand-jyoti",
+    "tulsi-archana",
+    "kanya-bhojan",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Devotee",
+     "persons": 1,
+     "price": 751,
+     "strike": 981,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 1151,
+     "strike": 1501,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 1851,
+     "strike": 2411,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 2751,
+     "strike": 3581,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:3:22:0"
+  },
+  {
+   "slug": "salasar-sundarkand-path",
+   "title": "Sundarkand Path & Chola Chadhava",
+   "subtitle": "For strength, courage & freedom from fear",
+   "ribbon": "MANGALVAR VISHESH",
+   "deity": "Hanuman",
+   "purposes": [
+    "Protection",
+    "Health"
+   ],
+   "templeSlug": "salasar-balaji",
+   "date": "REL:6:7:0",
+   "tithi": "Kartik Krishna Navami",
+   "devotees": 2206,
+   "images": [
+    "/assets/images/temple/salasar-balaji.webp",
+    "/assets/images/deity/hanuman.webp",
+    "/assets/images/chadhava/boondi-laddoo.webp"
+   ],
+   "about": [
+    {
+     "q": "What is Sundarkand?",
+     "a": "Sundarkand is the fifth book of the Ramayana, describing Hanuman ji's leap to Lanka and his discovery of Mata Sita. Its recitation is believed to remove fear and bring success."
+    },
+    {
+     "q": "What is Chola Chadhava?",
+     "a": "Chola is the offering of sindoor mixed with jasmine oil applied to Hanuman ji, along with silver varq and a new vastra."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Freedom from fear",
+     "desc": "Recited for courage before surgery, journeys, exams and interviews.",
+     "icon": "ShieldCheck"
+    },
+    {
+     "title": "Good health",
+     "desc": "Devotees pray for recovery and strength for themselves and loved ones.",
+     "icon": "HeartPulse"
+    },
+    {
+     "title": "Success in effort",
+     "desc": "Hanuman ji is invoked to complete difficult tasks without hurdles.",
+     "icon": "Trophy"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Sundarkand Path & Chola",
+     "desc": "The full Sundarkand is recited in chorus and chola with sindoor and chameli oil is offered."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [],
+   "addOns": [
+    "akhand-jyoti",
+    "kanya-bhojan",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Devotee",
+     "persons": 1,
+     "price": 651,
+     "strike": 851,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 1001,
+     "strike": 1301,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 1701,
+     "strike": 2211,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 2601,
+     "strike": 3381,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:5:22:0"
+  },
+  {
+   "slug": "siddhivinayak-atharvashirsha-path",
+   "title": "Ganpati Atharvashirsha Path & Modak Bhog",
+   "subtitle": "For new beginnings and success in work & studies",
+   "ribbon": "BUDHVAR VISHESH",
+   "deity": "Ganesh",
+   "purposes": [
+    "Career",
+    "Education"
+   ],
+   "templeSlug": "siddhivinayak",
+   "date": "REL:7:8:0",
+   "tithi": "Kartik Krishna Dashami",
+   "devotees": 1987,
+   "images": [
+    "/assets/images/puja/ganesh-modak.webp",
+    "/assets/images/deity/ganesh.webp",
+    "/assets/images/temple/siddhivinayak.webp"
+   ],
+   "about": [
+    {
+     "q": "What is the Ganpati Atharvashirsha?",
+     "a": "The Atharvashirsha is an Upanishad praising Shri Ganesh as the supreme reality. It is recited 21 times in this puja with durva and modak offerings."
+    },
+    {
+     "q": "Why on a Wednesday?",
+     "a": "Budhvar is dedicated to Shri Ganesh and to Budh graha, the planet of intellect and trade."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Smooth beginnings",
+     "desc": "Ideal before starting a business, job, house or important project.",
+     "icon": "Sunrise"
+    },
+    {
+     "title": "Sharp intellect",
+     "desc": "Students and professionals pray for clear thinking and good memory.",
+     "icon": "GraduationCap"
+    },
+    {
+     "title": "Obstacles removed",
+     "desc": "Vighnaharta is worshipped to clear hurdles from your path.",
+     "icon": "Sparkles"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "21 Atharvashirsha Avartan",
+     "desc": "The Atharvashirsha is chanted 21 times while 21 durva and 21 modaks are offered."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [],
+   "addOns": [
+    "akhand-jyoti",
+    "kanya-bhojan",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Devotee",
+     "persons": 1,
+     "price": 601,
+     "strike": 781,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 951,
+     "strike": 1241,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 1651,
+     "strike": 2151,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 2551,
+     "strike": 3321,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:6:22:0"
+  },
+  {
+   "slug": "santan-gopal-path",
+   "title": "Santan Gopal Path & Laddu Gopal Abhishek",
+   "subtitle": "For the blessing of children and their well-being",
+   "ribbon": "EKADASHI SPECIAL",
+   "deity": "Vishnu",
+   "purposes": [
+    "Health",
+    "Peace"
+   ],
+   "templeSlug": "banke-bihari",
+   "date": "REL:8:7:0",
+   "tithi": "Kartik Krishna Ekadashi",
+   "devotees": 1642,
+   "images": [
+    "/assets/images/puja/laddu-gopal.webp",
+    "/assets/images/product/laddu-gopal-murti.webp",
+    "/assets/images/temple/banke-bihari.webp",
+    "/assets/images/chadhava/gopal-shringar.webp"
+   ],
+   "about": [
+    {
+     "q": "What is the Santan Gopal mantra?",
+     "a": "The Santan Gopal mantra worships Bal Krishna and is traditionally chanted by couples praying for a child and by parents for their children's health."
+    },
+    {
+     "q": "Why in Vrindavan?",
+     "a": "Vrindavan is the land of Krishna's childhood leelas. Worshipping Laddu Gopal here is believed to bring his playful, protective blessings to your family."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Blessing of children",
+     "desc": "Couples pray for a healthy child and a safe pregnancy.",
+     "icon": "Heart"
+    },
+    {
+     "title": "Children's well-being",
+     "desc": "Parents pray for the health, studies and good nature of their children.",
+     "icon": "HeartPulse"
+    },
+    {
+     "title": "Joy in the home",
+     "desc": "Bal Gopal's worship is believed to fill the home with happiness.",
+     "icon": "Sparkles"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Santan Gopal Jaap & Abhishek",
+     "desc": "The Santan Gopal mantra is chanted while Laddu Gopal is bathed with milk, curd and makhan-mishri."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "Can I book this for my grandchildren?",
+     "a": "Yes, add each child's name in the sankalp. For newborns without a name yet, write 'Putra/Putri of' with the parent's name."
+    }
+   ],
+   "addOns": [
+    "tulsi-archana",
+    "gau-grass-seva",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Devotee",
+     "persons": 1,
+     "price": 851,
+     "strike": 1111,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 1251,
+     "strike": 1631,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 1951,
+     "strike": 2541,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 2851,
+     "strike": 3711,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:7:22:0"
+  },
+  {
+   "slug": "basar-vidya-saraswati-homa",
+   "title": "Vidya Saraswati Homa at Basar",
+   "subtitle": "For focus, memory and success in exams",
+   "ribbon": "GURUVAR VISHESH",
+   "deity": "Saraswati",
+   "purposes": [
+    "Education",
+    "Career"
+   ],
+   "templeSlug": "basar-saraswati",
+   "date": "REL:9:9:0",
+   "tithi": "Kartik Krishna Dwadashi",
+   "devotees": 1290,
+   "images": [
+    "/assets/images/puja/saraswati-idol.webp",
+    "/assets/images/deity/saraswati.webp",
+    "/assets/images/temple/basar.webp"
+   ],
+   "about": [
+    {
+     "q": "Who should book this homa?",
+     "a": "Students preparing for board, entrance or competitive exams, and anyone beginning studies in music, arts or a new skill."
+    },
+    {
+     "q": "Why at Basar?",
+     "a": "Basar is one of the very few temples dedicated to Gnana Saraswati, the Devi of knowledge, and is famed for Akshara Abhyasam."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Concentration",
+     "desc": "Prayed for a steady mind and better focus while studying.",
+     "icon": "Brain"
+    },
+    {
+     "title": "Exam success",
+     "desc": "Students seek the Devi's blessing before important examinations.",
+     "icon": "GraduationCap"
+    },
+    {
+     "title": "Speech & arts",
+     "desc": "Saraswati is worshipped for clear speech, music and creativity.",
+     "icon": "BookOpen"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Saraswati Homa",
+     "desc": "Saraswati mool mantra and Medha Suktam are offered into the sacred fire with ghee and white flowers."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "Can I send my child's pen or books?",
+     "a": "We cannot receive items, but a blessed pen and a yellow raksha sutra are included in the Aashirwad Box."
+    }
+   ],
+   "addOns": [
+    "akhand-jyoti",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Student",
+     "persons": 1,
+     "price": 551,
+     "strike": 721,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 901,
+     "strike": 1171,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 1551,
+     "strike": 2021,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 2451,
+     "strike": 3191,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:8:22:0"
+  },
+  {
+   "slug": "kalighat-shyama-kali-puja",
+   "title": "Shyama Kali Puja & Homa at Kalighat",
+   "subtitle": "For courage, protection and removal of negativity",
+   "ribbon": "DEEPAVALI AMAVASYA",
+   "deity": "Kali",
+   "purposes": [
+    "Protection",
+    "Peace"
+   ],
+   "templeSlug": "kalighat",
+   "date": "REL:11:22:0",
+   "tithi": "Kartik Amavasya",
+   "devotees": 5310,
+   "featured": true,
+   "images": [
+    "/assets/images/puja/kali-homa.webp",
+    "/assets/images/deity/kali.webp",
+    "/assets/images/temple/kalighat.webp",
+    "/assets/images/chadhava/hibiscus.webp"
+   ],
+   "about": [
+    {
+     "q": "What is Shyama Puja?",
+     "a": "On the new-moon night of Kartik, Bengal worships Maa Kali as Shyama. While the rest of India celebrates Lakshmi on Deepavali, Bengal lights lamps for the Divine Mother who destroys darkness."
+    },
+    {
+     "q": "Why at Kalighat?",
+     "a": "Kalighat is one of the most revered Shakti Peethas and the heart of Kali worship in Kolkata."
+    },
+    {
+     "q": "Why at night?",
+     "a": "Kali Puja is performed in the nishita kaal, the deepest part of the night, when the Devi's energy is considered strongest."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Protection",
+     "desc": "Maa Kali is prayed to for protection from enemies, fear and evil eye.",
+     "icon": "ShieldCheck"
+    },
+    {
+     "title": "Removal of negativity",
+     "desc": "The homa is offered to burn away obstacles and negative energies.",
+     "icon": "Flame"
+    },
+    {
+     "title": "Inner strength",
+     "desc": "Devotees seek courage to face illness, debt or legal trouble.",
+     "icon": "Trophy"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Nishita Kali Puja & Homa",
+     "desc": "108 red jaba flowers and 108 ahutis are offered to Maa Kali in the middle of the night."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "When will I receive the video for a night puja?",
+     "a": "Night pujas are edited the next morning; the video usually reaches you within 2–3 days."
+    }
+   ],
+   "addOns": [
+    "akhand-jyoti",
+    "kanya-bhojan",
+    "sadhu-bhandara",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Devotee",
+     "persons": 1,
+     "price": 1051,
+     "strike": 1371,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 1451,
+     "strike": 1891,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 2251,
+     "strike": 2931,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 3251,
+     "strike": 4231,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:10:22:0"
+  },
+  {
+   "slug": "mangal-dosh-shanti",
+   "title": "Mangal Dosh Shanti Puja",
+   "subtitle": "For timely marriage and harmony for Manglik natives",
+   "ribbon": "MANGALVAR VISHESH",
+   "deity": "Navagraha",
+   "purposes": [
+    "Marriage"
+   ],
+   "templeSlug": "trimbakeshwar",
+   "date": "REL:13:8:0",
+   "tithi": "Kartik Shukla Dwitiya",
+   "devotees": 1876,
+   "images": [
+    "/assets/images/puja/yagna.webp",
+    "/assets/images/product/red-coral.webp",
+    "/assets/images/puja/navagraha.webp"
+   ],
+   "about": [
+    {
+     "q": "What is Mangal Dosh?",
+     "a": "Mangal Dosh is said to arise when Mars is placed in the 1st, 4th, 7th, 8th or 12th house of the birth chart. It is often linked to delays or friction in marriage."
+    },
+    {
+     "q": "Is the puja done on a Tuesday?",
+     "a": "Yes. Mangalvar is ruled by Mangal graha, so the shanti is performed on a Tuesday morning."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Timely marriage",
+     "desc": "Families pray for delays in finding a match to be removed.",
+     "icon": "CalendarCheck"
+    },
+    {
+     "title": "Calmer temperament",
+     "desc": "Mangal shanti is believed to soften anger and haste.",
+     "icon": "Heart"
+    },
+    {
+     "title": "Graha balance",
+     "desc": "Mangal mantras are offered so that Mars gives its positive results.",
+     "icon": "Orbit"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Mangal Graha Havan",
+     "desc": "Mangal beej mantra is chanted and offerings of red masoor and khair wood are made into the havan."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [],
+   "addOns": [
+    "akhand-jyoti",
+    "kanya-bhojan",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Kundli",
+     "persons": 1,
+     "price": 1251,
+     "strike": 1631,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 1651,
+     "strike": 2151,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 2451,
+     "strike": 3191,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 3451,
+     "strike": 4491,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:12:22:0"
+  },
+  {
+   "slug": "tulsi-vivah-mayapur",
+   "title": "Tulsi Vivah (Tulsi–Shaligram Vivah)",
+   "subtitle": "For a happy marriage and the merit of kanyadaan",
+   "ribbon": "DEV UTHANI SPECIAL",
+   "deity": "Vishnu",
+   "purposes": [
+    "Marriage",
+    "Wealth"
+   ],
+   "templeSlug": "mayapur-chandrodaya",
+   "date": "REL:15:18:0",
+   "tithi": "Kartik Shukla Dwadashi",
+   "devotees": 1458,
+   "images": [
+    "/assets/images/puja/tulsi.webp",
+    "/assets/images/temple/mayapur.webp",
+    "/assets/images/hero/mayapur-dusk.webp"
+   ],
+   "about": [
+    {
+     "q": "What is Tulsi Vivah?",
+     "a": "After Dev Uthani Ekadashi, Tulsi Devi is ceremonially married to Shri Vishnu in his Shaligram form. It marks the start of the wedding season."
+    },
+    {
+     "q": "Who should take part?",
+     "a": "Couples praying for a happy married life, families awaiting a match for their children, and those who wish to gain the merit of kanyadaan."
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Happy marriage",
+     "desc": "Couples pray for affection and long companionship.",
+     "icon": "Heart"
+    },
+    {
+     "title": "Merit of kanyadaan",
+     "desc": "Offering Tulsi in marriage is said to equal the merit of kanyadaan.",
+     "icon": "Gift"
+    },
+    {
+     "title": "Prosperity",
+     "desc": "Tulsi is a form of Lakshmi; her worship invites abundance.",
+     "icon": "Coins"
+    }
+   ],
+   "process": [
+    {
+     "title": "Sankalp in your name",
+     "desc": "The acharya calls out each devotee's name and gotra and states the wish behind the puja."
+    },
+    {
+     "title": "Gauri–Ganesh Avahan",
+     "desc": "Shri Ganesh and Maa Gauri are invoked so that the ritual completes without obstacles."
+    },
+    {
+     "title": "Tulsi–Shaligram Vivah",
+     "desc": "Tulsi is dressed as a bride and wedded to Shaligram ji with mangal phere and kanyadaan."
+    },
+    {
+     "title": "Purnahuti & Aarti",
+     "desc": "The final offering is made, followed by aarti with camphor and ghee lamps."
+    },
+    {
+     "title": "Video & Prasad",
+     "desc": "Your puja video is sent on WhatsApp and the blessed prasad is packed for dispatch."
+    }
+   ],
+   "faqs": [],
+   "addOns": [
+    "tulsi-archana",
+    "gau-grass-seva",
+    "pandit-dakshina"
+   ],
+   "packages": [
+    {
+     "id": "individual",
+     "name": "Single Devotee",
+     "persons": 1,
+     "price": 701,
+     "strike": 911,
+     "desc": "Sankalp in one devotee's name and gotra."
+    },
+    {
+     "id": "couple",
+     "name": "Jodi (Couple) Sankalp",
+     "persons": 2,
+     "price": 1101,
+     "strike": 1431,
+     "desc": "Sankalp for husband and wife, or any two devotees."
+    },
+    {
+     "id": "family",
+     "name": "Parivar Sankalp",
+     "persons": 4,
+     "price": 1801,
+     "strike": 2341,
+     "popular": true,
+     "desc": "Up to 4 family members named in the sankalp, with a special bhog."
+    },
+    {
+     "id": "joint",
+     "name": "Sanyukt Parivar Sankalp",
+     "persons": 6,
+     "price": 2701,
+     "strike": 3511,
+     "desc": "Up to 6 members of a joint family, with vastra and bhog offered."
+    }
+   ],
+   "cutoff": "REL:14:22:0"
+  }
+ ],
+ "addOns": [
+  {
+   "id": "akhand-jyoti",
+   "name": "Akhand Jyoti (24 hours)",
+   "price": 101,
+   "desc": "A ghee lamp kept burning for a full day before the deity in your name.",
+   "image": "/assets/images/product/brass-diya.webp"
+  },
+  {
+   "id": "tulsi-archana",
+   "name": "Tulsi Archana",
+   "price": 51,
+   "desc": "108 tulsi leaves offered one by one with the deity's names.",
+   "image": "/assets/images/puja/tulsi.webp"
+  },
+  {
+   "id": "gau-grass-seva",
+   "name": "Gau Grass Seva",
+   "price": 151,
+   "desc": "Green fodder and gur fed to the cows of a Braj gaushala.",
+   "image": "/assets/images/hero/yamuna-ghat.webp"
+  },
+  {
+   "id": "kanya-bhojan",
+   "name": "Kanya Bhojan",
+   "price": 351,
+   "desc": "A sattvic meal and gifts offered to 9 young girls as forms of the Devi.",
+   "image": "/assets/images/chadhava/boondi-laddoo.webp"
+  },
+  {
+   "id": "sadhu-bhandara",
+   "name": "Sadhu Bhandara",
+   "price": 551,
+   "desc": "Sponsor a meal for sadhus and pilgrims at the temple town.",
+   "image": "/assets/images/chadhava/peda.webp"
+  },
+  {
+   "id": "pandit-dakshina",
+   "name": "Acharya Dakshina",
+   "price": 121,
+   "desc": "Dakshina offered to the acharyas who perform your puja.",
+   "image": "/assets/images/chadhava/flower-garland.webp"
+  }
+ ],
+ "deities": [
+  "Vishnu",
+  "Kali",
+  "Lakshmi",
+  "Ganesh",
+  "Hanuman",
+  "Shani",
+  "Saraswati",
+  "Navagraha",
+  "Shiva",
+  "Durga",
+  "Pitru"
+ ],
+ "purposes": [
+  "Health",
+  "Wealth",
+  "Protection",
+  "Career",
+  "Marriage",
+  "Education",
+  "Peace",
+  "Ancestors"
+ ],
+ "chadhavas": [
+  {
+   "slug": "banke-bihari-shringar-chadhava",
+   "title": "Shringar Seva for Banke Bihari ji",
+   "subtitle": "Offer poshak, phool bangla & makhan-mishri in Vrindavan",
+   "templeSlug": "banke-bihari",
+   "date": "REL:1:8:0",
+   "tithi": "Kartik Krishna Chaturthi",
+   "image": "/assets/images/chadhava/phool-bangla.webp",
+   "devotees": 2210,
+   "about": "Make your offering to Thakur Banke Bihari ji in Vrindavan. Each seva is offered with your name and gotra, and a short video of the offering is sent to your WhatsApp.",
+   "items": [
+    {
+     "id": "poshak",
+     "name": "Bihari ji Poshak",
+     "price": 251,
+     "image": "/assets/images/chadhava/gopal-shringar.webp",
+     "desc": "A new hand-stitched poshak for Thakur ji's shringar."
+    },
+    {
+     "id": "phool-bangla",
+     "name": "Phool Bangla Seva (share)",
+     "price": 501,
+     "image": "/assets/images/chadhava/phool-bangla.webp",
+     "desc": "Your share in decorating the sanctum with fresh flowers."
+    },
+    {
+     "id": "peda-bhog",
+     "name": "Mathura Peda Bhog",
+     "price": 101,
+     "image": "/assets/images/chadhava/peda.webp",
+     "desc": "Fresh Braj peda offered as bhog."
+    },
+    {
+     "id": "tulsi-mala",
+     "name": "Tulsi & Flower Mala",
+     "price": 51,
+     "image": "/assets/images/chadhava/flower-garland.webp",
+     "desc": "A garland of tulsi and fresh flowers for Thakur ji."
+    }
+   ]
+  },
+  {
+   "slug": "kalighat-maa-chadhava",
+   "title": "Offerings to Maa Kali at Kalighat",
+   "subtitle": "Offer laal paar saree, jaba mala & bhog",
+   "templeSlug": "kalighat",
+   "date": "REL:3:10:0",
+   "tithi": "Kartik Krishna Shashthi",
+   "image": "/assets/images/temple/kalighat.webp",
+   "devotees": 3045,
+   "about": "Offer to Maa Dakshina Kali at the Kalighat Shakti Peetha. The temple sevaits make the offering in your name and gotra and share a video on WhatsApp.",
+   "items": [
+    {
+     "id": "laal-saree",
+     "name": "Laal Paar Saree",
+     "price": 351,
+     "image": "/assets/images/chadhava/red-saree.webp",
+     "desc": "A red-bordered saree offered to the Devi."
+    },
+    {
+     "id": "jaba-mala",
+     "name": "108 Jaba Flower Mala",
+     "price": 71,
+     "image": "/assets/images/chadhava/hibiscus.webp",
+     "desc": "A garland of 108 red hibiscus, dearest to Maa Kali."
+    },
+    {
+     "id": "shankha-pola",
+     "name": "Shankha–Pola",
+     "price": 151,
+     "image": "/assets/images/product/shankha-bangles.webp",
+     "desc": "Conch-shell and red bangles offered for saubhagya."
+    },
+    {
+     "id": "mishti-bhog",
+     "name": "Mishti Bhog",
+     "price": 121,
+     "image": "/assets/images/chadhava/boondi-laddoo.webp",
+     "desc": "Bengali sweets offered as naivedya."
+    }
+   ]
+  },
+  {
+   "slug": "shani-tel-abhishek-chadhava",
+   "title": "Tel Abhishek at Shani Shingnapur",
+   "subtitle": "Offer mustard oil, black til & aparajita to Shani Dev",
+   "templeSlug": "shani-shingnapur",
+   "date": "REL:3:7:30",
+   "tithi": "Shanivar",
+   "image": "/assets/images/puja/shani-dev.webp",
+   "devotees": 2688,
+   "about": "Offer mustard oil abhishek to the swayambhu Shani Dev at Shingnapur on Saturday. Each offering is made in your name and the video is sent on WhatsApp.",
+   "items": [
+    {
+     "id": "sarson-tel",
+     "name": "Sarson Tel Abhishek",
+     "price": 61,
+     "image": "/assets/images/chadhava/mustard-oil.webp",
+     "desc": "Mustard oil poured over Shani Dev's stone."
+    },
+    {
+     "id": "kala-til",
+     "name": "Kala Til Daan",
+     "price": 41,
+     "image": "/assets/images/chadhava/black-sesame.webp",
+     "desc": "Black sesame offered to pacify Shani."
+    },
+    {
+     "id": "aparajita",
+     "name": "Neel Aparajita Pushp",
+     "price": 51,
+     "image": "/assets/images/chadhava/aparajita.webp",
+     "desc": "Blue aparajita flowers, dear to Shani Dev."
+    },
+    {
+     "id": "til-deep",
+     "name": "Til Tel Deepak",
+     "price": 31,
+     "image": "/assets/images/product/brass-diya.webp",
+     "desc": "A sesame-oil lamp lit in your name."
+    }
+   ]
+  },
+  {
+   "slug": "salasar-balaji-chadhava",
+   "title": "Chadhava to Salasar Balaji",
+   "subtitle": "Offer chola, churma & nariyal at Salasar dham",
+   "templeSlug": "salasar-balaji",
+   "date": "REL:6:9:0",
+   "tithi": "Mangalvar",
+   "image": "/assets/images/temple/salasar-balaji.webp",
+   "devotees": 1734,
+   "about": "Make your offering to Salasar Balaji in Rajasthan. Offerings are made by the temple pujaris in your name and a video is shared on WhatsApp.",
+   "items": [
+    {
+     "id": "chola",
+     "name": "Sindoor Chola",
+     "price": 151,
+     "image": "/assets/images/deity/hanuman.webp",
+     "desc": "Sindoor with chameli oil applied to Balaji."
+    },
+    {
+     "id": "laddoo-bhog",
+     "name": "Boondi Laddoo Bhog",
+     "price": 101,
+     "image": "/assets/images/chadhava/boondi-laddoo.webp",
+     "desc": "Pure-ghee boondi laddoo offered as bhog."
+    },
+    {
+     "id": "nariyal",
+     "name": "Nariyal with Laal Kapda",
+     "price": 51,
+     "image": "/assets/images/chadhava/flower-garland.webp",
+     "desc": "A coconut tied in red cloth, offered with your wish."
+    }
+   ]
+  }
+ ],
+ "temples": [
+  {
+   "slug": "banke-bihari",
+   "name": "Shri Banke Bihari Mandir",
+   "city": "Vrindavan",
+   "state": "Uttar Pradesh",
+   "deity": "Krishna",
+   "image": "/assets/images/temple/banke-bihari.webp",
+   "gallery": [
+    "/assets/images/temple/banke-bihari.webp",
+    "/assets/images/chadhava/phool-bangla.webp",
+    "/assets/images/hero/yamuna-ghat.webp"
+   ],
+   "short": "Home of Thakur Banke Bihari ji, the 'bent in three places' form of Shri Krishna, in the lanes of Vrindavan.",
+   "history": [
+    "The deity was revealed by Swami Haridas, the saint-musician of Nidhivan, whose devotion is said to have made Radha and Krishna appear as one form.",
+    "Darshan here is given in short glimpses — a curtain is drawn every few moments, as devotees believe no one can bear Bihari ji's gaze for long.",
+    "The temple is famous for its Phool Bangla in summer, when the sanctum is decorated entirely with fresh flowers."
+   ],
+   "timings": "7:45 AM – 12:00 PM, 5:30 PM – 9:30 PM",
+   "mapQuery": "Banke Bihari Temple Vrindavan"
+  },
+  {
+   "slug": "barsana-radha-rani",
+   "name": "Shri Radha Rani (Ladli Ji) Mandir",
+   "city": "Barsana",
+   "state": "Uttar Pradesh",
+   "deity": "Radha",
+   "image": "/assets/images/temple/barsana.webp",
+   "gallery": [
+    "/assets/images/temple/barsana.webp",
+    "/assets/images/puja/radha-krishna.webp",
+    "/assets/images/deity/vishnu.webp"
+   ],
+   "short": "Hilltop temple of Shri Radha in her childhood village of Barsana, on the Bhanugarh hill.",
+   "history": [
+    "Barsana is revered as the birthplace and childhood home of Shri Radha, daughter of Vrishabhanu Maharaj.",
+    "The temple is reached by over 200 steps and looks out over the whole of Braj.",
+    "Barsana's Lathmar Holi and Radhashtami celebrations draw devotees from across the world."
+   ],
+   "timings": "5:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+   "mapQuery": "Radha Rani Temple Barsana"
+  },
+  {
+   "slug": "mayapur-chandrodaya",
+   "name": "Sri Mayapur Chandrodaya Mandir",
+   "city": "Mayapur",
+   "state": "West Bengal",
+   "deity": "Radha Madhav",
+   "image": "/assets/images/temple/mayapur.webp",
+   "gallery": [
+    "/assets/images/temple/mayapur.webp",
+    "/assets/images/hero/mayapur-dusk.webp",
+    "/assets/images/puja/satyanarayan.webp"
+   ],
+   "short": "The grand temple of Sri Sri Radha Madhav on the banks of the Ganga at Mayapur, birthplace of Sri Chaitanya Mahaprabhu.",
+   "history": [
+    "Mayapur in Nadia district is revered as the appearance place of Sri Chaitanya Mahaprabhu, who spread the chanting of the Hare Krishna maha-mantra.",
+    "The Chandrodaya Mandir houses the deities of Sri Sri Radha Madhav and the Ashta Sakhis.",
+    "Its kirtans, Ganga aarti and festival celebrations make it one of Bengal's busiest pilgrimage centres."
+   ],
+   "timings": "4:30 AM – 1:00 PM, 4:00 PM – 8:30 PM",
+   "mapQuery": "ISKCON Mayapur Chandrodaya Mandir"
+  },
+  {
+   "slug": "kalighat",
+   "name": "Kalighat Kali Mandir",
+   "city": "Kolkata",
+   "state": "West Bengal",
+   "deity": "Kali",
+   "image": "/assets/images/temple/kalighat.webp",
+   "gallery": [
+    "/assets/images/temple/kalighat.webp",
+    "/assets/images/puja/kali-homa.webp",
+    "/assets/images/deity/kali.webp"
+   ],
+   "short": "One of the 51 Shakti Peethas, beside the old course of the Adi Ganga in south Kolkata.",
+   "history": [
+    "Kalighat is counted among the Shakti Peethas, where the toes of Devi Sati's right foot are believed to have fallen.",
+    "The Devi here has a striking form with three large eyes and a long golden tongue, worshipped as Dakshina Kali.",
+    "The city of Kolkata is said to take its name from this ancient seat of Maa Kali."
+   ],
+   "timings": "5:00 AM – 2:00 PM, 5:00 PM – 10:30 PM",
+   "mapQuery": "Kalighat Kali Temple Kolkata"
+  },
+  {
+   "slug": "trimbakeshwar",
+   "name": "Shri Trimbakeshwar Jyotirlinga",
+   "city": "Trimbak, Nashik",
+   "state": "Maharashtra",
+   "deity": "Shiva",
+   "image": "/assets/images/temple/trimbakeshwar.webp",
+   "gallery": [
+    "/assets/images/temple/trimbakeshwar.webp",
+    "/assets/images/puja/navagraha.webp",
+    "/assets/images/puja/yagna.webp"
+   ],
+   "short": "Jyotirlinga at the source of the Godavari, famed for Kaal Sarp, Narayan Nagbali and graha shanti rituals.",
+   "history": [
+    "The linga at Trimbakeshwar has three faces representing Brahma, Vishnu and Mahesh.",
+    "The Brahmagiri hills above the temple are the source of the Godavari, called the Ganga of the south.",
+    "Trimbakeshwar's pandits are known across India for dosh nivaran pujas performed by traditional vidhi."
+   ],
+   "timings": "5:30 AM – 9:00 PM",
+   "mapQuery": "Trimbakeshwar Temple Nashik"
+  },
+  {
+   "slug": "siddhivinayak",
+   "name": "Shri Siddhivinayak Ganapati Mandir",
+   "city": "Prabhadevi, Mumbai",
+   "state": "Maharashtra",
+   "deity": "Ganesh",
+   "image": "/assets/images/temple/siddhivinayak.webp",
+   "gallery": [
+    "/assets/images/temple/siddhivinayak.webp",
+    "/assets/images/deity/ganesh.webp",
+    "/assets/images/puja/ganesh-modak.webp"
+   ],
+   "short": "Mumbai's beloved Ganapati temple, home of the right-trunked Siddhivinayak who grants wishes.",
+   "history": [
+    "The original temple was consecrated in 1801 and has grown into one of the most visited temples in Maharashtra.",
+    "The idol's trunk turns to the right, a form known as Siddhi Vinayak, considered quick to bless sincere prayers.",
+    "Tuesdays and Sankashti Chaturthi see devotees queue through the night for darshan."
+   ],
+   "timings": "5:30 AM – 10:00 PM",
+   "mapQuery": "Siddhivinayak Temple Mumbai"
+  },
+  {
+   "slug": "shani-shingnapur",
+   "name": "Shri Shanidev Mandir, Shingnapur",
+   "city": "Shani Shingnapur, Ahilyanagar",
+   "state": "Maharashtra",
+   "deity": "Shani",
+   "image": "/assets/images/temple/shani-shingnapur.webp",
+   "gallery": [
+    "/assets/images/temple/shani-shingnapur.webp",
+    "/assets/images/puja/shani-dev.webp",
+    "/assets/images/deity/shani.webp"
+   ],
+   "short": "Open-air shrine of Shani Dev — a self-manifested black stone worshipped without a roof.",
+   "history": [
+    "Shani Dev here is a swayambhu black stone standing on an open platform, with no roof or walls around it.",
+    "The village is famous for its houses without doors, a sign of the people's faith that Shani Dev protects them.",
+    "Devotees offer mustard oil abhishek to the stone, especially on Saturdays and Shani Amavasya."
+   ],
+   "timings": "Open 24 hours",
+   "mapQuery": "Shani Shingnapur Temple"
+  },
+  {
+   "slug": "salasar-balaji",
+   "name": "Shri Salasar Balaji Dham",
+   "city": "Salasar, Churu",
+   "state": "Rajasthan",
+   "deity": "Hanuman",
+   "image": "/assets/images/temple/salasar-balaji.webp",
+   "gallery": [
+    "/assets/images/temple/salasar-balaji.webp",
+    "/assets/images/deity/hanuman.webp",
+    "/assets/images/chadhava/boondi-laddoo.webp"
+   ],
+   "short": "Rajasthan's famous Hanuman dham, where Balaji appears with a beard and moustache.",
+   "history": [
+    "The idol is said to have emerged from a farmer's field in 1754 and was brought to Salasar on a bullock cart.",
+    "Unusually, Hanuman ji here has a round face with beard and moustache, worshipped as Salasar Balaji.",
+    "Devotees tie coconuts with red cloth in the temple compound as a sign of their wish."
+   ],
+   "timings": "4:00 AM – 10:00 PM",
+   "mapQuery": "Salasar Balaji Temple"
+  },
+  {
+   "slug": "basar-saraswati",
+   "name": "Shri Gnana Saraswati Mandir",
+   "city": "Basar, Nirmal",
+   "state": "Telangana",
+   "deity": "Saraswati",
+   "image": "/assets/images/temple/basar.webp",
+   "gallery": [
+    "/assets/images/temple/basar.webp",
+    "/assets/images/puja/saraswati-idol.webp",
+    "/assets/images/deity/saraswati.webp"
+   ],
+   "short": "One of India's rare Saraswati temples, on the banks of the Godavari, famous for Akshara Abhyasam.",
+   "history": [
+    "Tradition holds that Maharishi Vyasa meditated here and shaped the idol of the Devi from handfuls of sand.",
+    "Parents bring young children for Akshara Abhyasam, the ceremony of writing the first letters.",
+    "Students visit before examinations to seek the blessing of Maa Gnana Saraswati."
+   ],
+   "timings": "4:00 AM – 8:30 PM",
+   "mapQuery": "Basar Saraswati Temple"
+  }
+ ],
+ "categories": [
+  {
+   "slug": "gemstones",
+   "name": "Gemstones (Ratna)",
+   "icon": "Gem",
+   "image": "/assets/images/product/yellow-sapphire.webp"
+  },
+  {
+   "slug": "japa-mala",
+   "name": "Rudraksha & Japa Mala",
+   "icon": "CircleDot",
+   "image": "/assets/images/product/rudraksha.webp"
+  },
+  {
+   "slug": "yantra",
+   "name": "Yantra",
+   "icon": "Hexagon",
+   "image": "/assets/images/product/yantra.webp"
+  },
+  {
+   "slug": "murti",
+   "name": "Murti & Shringar",
+   "icon": "Landmark",
+   "image": "/assets/images/product/laddu-gopal-murti.webp"
+  },
+  {
+   "slug": "puja-essentials",
+   "name": "Puja Essentials",
+   "icon": "Flower2",
+   "image": "/assets/images/product/copper-lota.webp"
+  },
+  {
+   "slug": "dhoop-agarbatti",
+   "name": "Dhoop & Agarbatti",
+   "icon": "Wind",
+   "image": "/assets/images/product/agarbatti.webp"
+  },
+  {
+   "slug": "jyotish-books",
+   "name": "Jyotish Books",
+   "icon": "BookOpen",
+   "image": "/assets/images/product/jyotish-granth.webp"
+  },
+  {
+   "slug": "braj-prasad",
+   "name": "Braj Prasad",
+   "icon": "Gift",
+   "image": "/assets/images/chadhava/peda.webp"
+  }
+ ],
+ "products": [
+  {
+   "slug": "pukhraj-yellow-sapphire",
+   "name": "Natural Pukhraj (Yellow Sapphire)",
+   "category": "gemstones",
+   "price": 4999,
+   "mrp": 6499,
+   "rating": 4.8,
+   "reviews": 61,
+   "images": [
+    "/assets/images/product/yellow-sapphire.webp"
+   ],
+   "short": "Lab-certified Ceylon yellow sapphire for Guru (Jupiter).",
+   "description": "A natural, unheated yellow sapphire with a clear golden tone, supplied with a gem-testing lab certificate. In Jyotish, Pukhraj is associated with Brihaspati (Jupiter) and worn for wisdom, marriage and growth.",
+   "specs": [
+    [
+     "Origin",
+     "Sri Lanka"
+    ],
+    [
+     "Treatment",
+     "Unheated"
+    ],
+    [
+     "Certificate",
+     "Gem-testing lab report"
+    ],
+    [
+     "Planet",
+     "Guru (Jupiter)"
+    ]
+   ],
+   "howToUse": "Set in gold on the index finger. Wear on a Thursday morning after offering it to Shri Vishnu and chanting 'Om Brim Brihaspataye Namah' 108 times. Consult an astrologer before wearing any gemstone.",
+   "variants": {
+    "label": "Weight",
+    "options": [
+     "3 ratti",
+     "5 ratti",
+     "7 ratti"
+    ]
+   },
+   "badge": "Lab certified",
+   "bestseller": true,
+   "stock": 14
+  },
+  {
+   "slug": "panna-emerald",
+   "name": "Natural Panna (Emerald)",
+   "category": "gemstones",
+   "price": 3999,
+   "mrp": 4999,
+   "rating": 4.7,
+   "reviews": 38,
+   "images": [
+    "/assets/images/product/emerald.webp"
+   ],
+   "short": "Zambian emerald for Budh (Mercury) — intellect & trade.",
+   "description": "A natural Zambian emerald with good colour and lustre, supplied with a lab certificate. Panna is linked with Budh graha and is traditionally worn for communication, learning and business.",
+   "specs": [
+    [
+     "Origin",
+     "Zambia"
+    ],
+    [
+     "Certificate",
+     "Gem-testing lab report"
+    ],
+    [
+     "Planet",
+     "Budh (Mercury)"
+    ],
+    [
+     "Setting",
+     "Unset"
+    ]
+   ],
+   "howToUse": "Set in gold or silver on the little finger and wear on a Wednesday morning. Consult an astrologer before wearing.",
+   "variants": {
+    "label": "Weight",
+    "options": [
+     "3 ratti",
+     "5 ratti",
+     "6 ratti"
+    ]
+   },
+   "badge": "",
+   "stock": 9
+  },
+  {
+   "slug": "moonga-red-coral-mala",
+   "name": "Moonga (Red Coral) Bead Mala",
+   "category": "gemstones",
+   "price": 1499,
+   "mrp": 1899,
+   "rating": 4.6,
+   "reviews": 47,
+   "images": [
+    "/assets/images/product/red-coral.webp"
+   ],
+   "short": "Natural red coral beads for Mangal (Mars).",
+   "description": "A single strand of natural red coral beads, polished and strung on durable thread. Moonga is associated with Mangal graha and worn for courage, energy and to balance Mangal dosh.",
+   "specs": [
+    [
+     "Beads",
+     "54 + 1"
+    ],
+    [
+     "Bead size",
+     "5–6 mm"
+    ],
+    [
+     "Material",
+     "Natural coral"
+    ],
+    [
+     "Planet",
+     "Mangal (Mars)"
+    ]
+   ],
+   "howToUse": "Wear on a Tuesday after offering it to Hanuman ji with a red flower.",
+   "stock": 22
+  },
+  {
+   "slug": "moti-pearl-mala",
+   "name": "Moti (Pearl) Mala",
+   "category": "gemstones",
+   "price": 1299,
+   "mrp": 1599,
+   "rating": 4.5,
+   "reviews": 29,
+   "images": [
+    "/assets/images/product/pearl.webp"
+   ],
+   "short": "Freshwater pearl mala for Chandra (Moon) — calm & balance.",
+   "description": "Lustrous freshwater pearls strung by hand. In Jyotish, Moti is associated with Chandra and is worn for a calm mind, emotional balance and good sleep.",
+   "specs": [
+    [
+     "Pearls",
+     "Freshwater"
+    ],
+    [
+     "Length",
+     "18 inches"
+    ],
+    [
+     "Planet",
+     "Chandra (Moon)"
+    ]
+   ],
+   "howToUse": "Wear on a Monday evening after dipping it in raw milk and Gangajal.",
+   "stock": 18
+  },
+  {
+   "slug": "nepali-rudraksha-japa-mala",
+   "name": "Nepali Rudraksha Japa Mala",
+   "category": "japa-mala",
+   "price": 699,
+   "mrp": 899,
+   "rating": 4.8,
+   "reviews": 152,
+   "images": [
+    "/assets/images/product/rudraksha.webp"
+   ],
+   "short": "108+1 large Nepali beads for daily japa.",
+   "description": "A japa mala of large, well-formed Nepali Rudraksha beads, knotted between each bead so they do not rub against one another. Suitable for daily jaap of any mantra.",
+   "specs": [
+    [
+     "Beads",
+     "108 + 1 sumeru"
+    ],
+    [
+     "Bead size",
+     "10–12 mm"
+    ],
+    [
+     "Origin",
+     "Nepal"
+    ],
+    [
+     "Knotting",
+     "Hand-knotted"
+    ]
+   ],
+   "howToUse": "Before first use, wash in Gangajal, apply a little sandalwood oil and keep it before your deity overnight.",
+   "variants": {
+    "label": "Bead size",
+    "options": [
+     "8 mm",
+     "10–12 mm",
+     "14 mm"
+    ]
+   },
+   "badge": "Bestseller",
+   "bestseller": true,
+   "stock": 40
+  },
+  {
+   "slug": "sphatik-crystal-mala",
+   "name": "Sphatik (Crystal) Mala",
+   "category": "japa-mala",
+   "price": 549,
+   "mrp": 749,
+   "rating": 4.7,
+   "reviews": 88,
+   "images": [
+    "/assets/images/product/sphatik-mala.webp"
+   ],
+   "short": "Clear quartz beads for Lakshmi & Shukra mantra jaap.",
+   "description": "A cool, clear sphatik mala traditionally used for Lakshmi, Saraswati and Shukra mantras. Known for its soothing feel during long jaap.",
+   "specs": [
+    [
+     "Beads",
+     "108 + 1"
+    ],
+    [
+     "Bead size",
+     "8 mm"
+    ],
+    [
+     "Material",
+     "Natural quartz"
+    ]
+   ],
+   "howToUse": "Use for jaap on Fridays. Keep wrapped in a clean cloth when not in use.",
+   "stock": 35
+  },
+  {
+   "slug": "shri-yantra-copper-plate",
+   "name": "Shri Yantra on Copper Plate",
+   "category": "yantra",
+   "price": 899,
+   "mrp": 1199,
+   "rating": 4.7,
+   "reviews": 74,
+   "images": [
+    "/assets/images/product/yantra.webp"
+   ],
+   "short": "Engraved copper Shri Yantra for Lakshmi sadhana.",
+   "description": "A deep-engraved Shri Yantra on a thick copper plate with a gold-tone finish, prana-pratishtha done by our acharyas before dispatch.",
+   "specs": [
+    [
+     "Size",
+     "6 x 6 inches"
+    ],
+    [
+     "Material",
+     "Copper, gold-tone"
+    ],
+    [
+     "Energised",
+     "Mayapur"
+    ]
+   ],
+   "howToUse": "Install facing east on a Friday. Offer kumkum and a red flower and chant Shri Suktam.",
+   "variants": {
+    "label": "Size",
+    "options": [
+     "4 inch",
+     "6 inch",
+     "9 inch"
+    ]
+   },
+   "stock": 26
+  },
+  {
+   "slug": "laddu-gopal-murti",
+   "name": "Laddu Gopal Murti with Mukut",
+   "category": "murti",
+   "price": 799,
+   "mrp": 999,
+   "rating": 4.9,
+   "reviews": 109,
+   "images": [
+    "/assets/images/product/laddu-gopal-murti.webp",
+    "/assets/images/chadhava/gopal-shringar.webp"
+   ],
+   "short": "Crawling Bal Gopal with mor-pankh mukut.",
+   "description": "A beautifully finished crawling Laddu Gopal with a peacock-feather mukut, ready for your home mandir. Comes with a starter poshak.",
+   "specs": [
+    [
+     "Height",
+     "5 inches"
+    ],
+    [
+     "Finish",
+     "Painted, silver-tone"
+    ],
+    [
+     "Includes",
+     "Mukut and one poshak"
+    ]
+   ],
+   "howToUse": "Bathe Gopal ji with Gangajal on the day of arrival, dress him and offer makhan-mishri.",
+   "variants": {
+    "label": "Size",
+    "options": [
+     "No. 2",
+     "No. 4",
+     "No. 6"
+    ]
+   },
+   "badge": "New",
+   "stock": 30
+  },
+  {
+   "slug": "laddu-gopal-poshak-set",
+   "name": "Laddu Gopal Poshak Set (3 pcs)",
+   "category": "murti",
+   "price": 349,
+   "mrp": 449,
+   "rating": 4.6,
+   "reviews": 57,
+   "images": [
+    "/assets/images/chadhava/gopal-shringar.webp",
+    "/assets/images/product/peacock-feather.webp"
+   ],
+   "short": "Three festive poshaks for Thakur ji.",
+   "description": "Three hand-stitched poshaks with matching pagdi in festive colours, made by artisans in Vrindavan.",
+   "specs": [
+    [
+     "Pieces",
+     "3 poshak + 3 pagdi"
+    ],
+    [
+     "Made in",
+     "Vrindavan"
+    ]
+   ],
+   "variants": {
+    "label": "Fits",
+    "options": [
+     "No. 2",
+     "No. 4",
+     "No. 6"
+    ]
+   },
+   "stock": 48
+  },
+  {
+   "slug": "copper-puja-lota",
+   "name": "Copper Puja Lota",
+   "category": "puja-essentials",
+   "price": 449,
+   "mrp": 599,
+   "rating": 4.6,
+   "reviews": 63,
+   "images": [
+    "/assets/images/product/copper-lota.webp"
+   ],
+   "short": "Pure copper lota for Surya arghya and abhishek.",
+   "description": "A heavy-gauge copper lota with a narrow neck for a steady stream of water — ideal for Surya arghya and Shivling abhishek.",
+   "specs": [
+    [
+     "Material",
+     "Pure copper"
+    ],
+    [
+     "Capacity",
+     "500 ml"
+    ]
+   ],
+   "howToUse": "Offer water to Surya Dev at sunrise. Clean with lemon and salt to restore its shine.",
+   "stock": 52
+  },
+  {
+   "slug": "brass-akhand-jyoti",
+   "name": "Brass Akhand Jyoti Deepak",
+   "category": "puja-essentials",
+   "price": 699,
+   "mrp": 899,
+   "rating": 4.7,
+   "reviews": 71,
+   "images": [
+    "/assets/images/product/brass-diya.webp"
+   ],
+   "short": "Tall brass diya for long-burning ghee jyoti.",
+   "description": "A tall brass deepak with a wide oil well and a carved top, designed for akhand jyoti during Navratri and Kartik.",
+   "specs": [
+    [
+     "Material",
+     "Brass"
+    ],
+    [
+     "Height",
+     "9 inches"
+    ],
+    [
+     "Fuel",
+     "Ghee or til oil"
+    ]
+   ],
+   "variants": {
+    "label": "Height",
+    "options": [
+     "7 inch",
+     "9 inch",
+     "12 inch"
+    ]
+   },
+   "stock": 33
+  },
+  {
+   "slug": "shankha-pola-set",
+   "name": "Shankha–Pola Bangle Set",
+   "category": "puja-essentials",
+   "price": 599,
+   "mrp": 749,
+   "rating": 4.8,
+   "reviews": 44,
+   "images": [
+    "/assets/images/product/shankha-bangles.webp"
+   ],
+   "short": "Traditional Bengali conch-shell bangles.",
+   "description": "Hand-carved white shankha bangles from Bengal artisans, worn by married women as a symbol of saubhagya. Pairs with red pola.",
+   "specs": [
+    [
+     "Pieces",
+     "2 shankha"
+    ],
+    [
+     "Made in",
+     "West Bengal"
+    ]
+   ],
+   "variants": {
+    "label": "Size",
+    "options": [
+     "2.4",
+     "2.6",
+     "2.8"
+    ]
+   },
+   "stock": 20
+  },
+  {
+   "slug": "braj-chandan-agarbatti",
+   "name": "Braj Chandan Agarbatti",
+   "category": "dhoop-agarbatti",
+   "price": 149,
+   "mrp": 199,
+   "rating": 4.5,
+   "reviews": 210,
+   "images": [
+    "/assets/images/product/agarbatti.webp"
+   ],
+   "short": "Hand-rolled sandal & rose agarbatti from Vrindavan.",
+   "description": "Slow-burning, hand-rolled agarbatti made with sandalwood powder and temple-flower extracts, without charcoal.",
+   "specs": [
+    [
+     "Sticks",
+     "Approx. 100"
+    ],
+    [
+     "Burn time",
+     "40–45 minutes"
+    ],
+    [
+     "Fragrance",
+     "Chandan & rose"
+    ]
+   ],
+   "stock": 220
+  },
+  {
+   "slug": "mor-pankh-set",
+   "name": "Vrindavan Mor Pankh (Peacock Feathers)",
+   "category": "murti",
+   "price": 199,
+   "mrp": 249,
+   "rating": 4.4,
+   "reviews": 36,
+   "images": [
+    "/assets/images/product/peacock-feather.webp"
+   ],
+   "short": "Naturally shed peacock feathers for Krishna's shringar.",
+   "description": "A set of naturally shed peacock feathers, dear to Shri Krishna, for the home mandir or Vastu use.",
+   "specs": [
+    [
+     "Pieces",
+     "5 feathers"
+    ],
+    [
+     "Length",
+     "12–14 inches"
+    ]
+   ],
+   "stock": 75
+  },
+  {
+   "slug": "brihat-jyotish-guide",
+   "name": "Brihat Jyotish Guide (Illustrated)",
+   "category": "jyotish-books",
+   "price": 549,
+   "mrp": 699,
+   "rating": 4.6,
+   "reviews": 27,
+   "images": [
+    "/assets/images/product/jyotish-granth.webp"
+   ],
+   "short": "Beginner-friendly guide to kundli, grahas & remedies.",
+   "description": "An illustrated introduction to Vedic astrology covering the 12 houses, 9 grahas, dashas and simple remedies, written in easy language.",
+   "specs": [
+    [
+     "Pages",
+     "312"
+    ],
+    [
+     "Binding",
+     "Paperback"
+    ]
+   ],
+   "variants": {
+    "label": "Language",
+    "options": [
+     "Bengali",
+     "Hindi",
+     "English"
+    ]
+   },
+   "stock": 41
+  },
+  {
+   "slug": "mathura-peda-prasad",
+   "name": "Mathura Peda Prasad",
+   "category": "braj-prasad",
+   "price": 299,
+   "mrp": 349,
+   "rating": 4.8,
+   "reviews": 96,
+   "images": [
+    "/assets/images/chadhava/peda.webp"
+   ],
+   "short": "Khoa peda offered at Banke Bihari ji, sent fresh.",
+   "description": "Traditional Mathura peda made from slow-roasted khoa, first offered as bhog to Thakur ji and then packed for you.",
+   "specs": [
+    [
+     "Weight",
+     "500 g"
+    ],
+    [
+     "Shelf life",
+     "10 days"
+    ]
+   ],
+   "stock": 60
+  }
+ ],
+ "home": {
+  "hero": {
+   "line1": "Puja, Jyotish & Seva",
+   "line2": "in Your Name",
+   "text": "Radhika Astro brings you temple pujas, graha shanti and authentic spiritual products — from Vrindavan, Mayapur, Kalighat and more.",
+   "ctaLabel": "Book a Puja",
+   "ctaLink": "/puja",
+   "trust": [
+    {
+     "icon": "Landmark",
+     "line1": "Temple",
+     "line2": "Pandits"
+    },
+    {
+     "icon": "Orbit",
+     "line1": "Jyotish",
+     "line2": "Guidance"
+    },
+    {
+     "icon": "Lock",
+     "line1": "Safe",
+     "line2": "Payments"
+    },
+    {
+     "icon": "Video",
+     "line1": "Puja Video",
+     "line2": "on WhatsApp"
+    }
+   ]
+  },
+  "heroSlides": [
+   {
+    "image": "/assets/images/hero/prem-mandir.webp",
+    "caption": "Prem Mandir, Vrindavan"
+   },
+   {
+    "image": "/assets/images/hero/mayapur-dusk.webp",
+    "caption": "Chandrodaya Mandir, Mayapur"
+   },
+   {
+    "image": "/assets/images/hero/yamuna-ghat.webp",
+    "caption": "Yamuna Aarti, Braj"
+   },
+   {
+    "image": "/assets/images/hero/diya-rangoli.webp",
+    "caption": "Deepavali diyas"
+   }
+  ],
+  "promos": [
+   {
+    "title": "Shyama Kali Puja",
+    "subtitle": "Nishita puja & homa at Kalighat",
+    "tagline": "Deepavali Amavasya — sankalp in your name",
+    "pujaSlug": "kalighat-shyama-kali-puja",
+    "image": "/assets/images/puja/kali-homa.webp",
+    "link": "/puja/kalighat-shyama-kali-puja"
+   },
+   {
+    "title": "Kaal Sarp Dosh Nivaran",
+    "subtitle": "By Trimbakeshwar vidhi",
+    "tagline": "Rahu–Ketu shanti at the Godavari's source",
+    "pujaSlug": "kaal-sarp-dosh-nivaran",
+    "image": "/assets/images/puja/navagraha.webp",
+    "link": "/puja/kaal-sarp-dosh-nivaran"
+   },
+   {
+    "title": "Yugal Sarkar Puja",
+    "subtitle": "Radha Krishna at Barsana",
+    "tagline": "For love and harmony in married life",
+    "pujaSlug": "radha-krishna-yugal-puja",
+    "image": "/assets/images/puja/radha-krishna.webp",
+    "link": "/puja/radha-krishna-yugal-puja"
+   }
+  ],
+  "sections": [
+   {
+    "id": "quick",
+    "title": "",
+    "visible": true
+   },
+   {
+    "id": "promo",
+    "title": "",
+    "visible": true
+   },
+   {
+    "id": "upcoming",
+    "title": "Upcoming Pujas This Fortnight",
+    "link": "/puja",
+    "visible": true
+   },
+   {
+    "id": "temples",
+    "title": "Pujas at Sacred Dhams",
+    "link": "/temples",
+    "visible": true
+   },
+   {
+    "id": "products",
+    "title": "Ratna, Mala & Puja Essentials",
+    "link": "/store",
+    "visible": true
+   },
+   {
+    "id": "chadhava",
+    "title": "Send a Chadhava",
+    "link": "/chadhava",
+    "visible": true
+   },
+   {
+    "id": "why",
+    "title": "Why Devotees Trust Radhika Astro",
+    "visible": true
+   },
+   {
+    "id": "reviews",
+    "title": "Words from Our Devotees",
+    "visible": true
+   },
+   {
+    "id": "app",
+    "title": "",
+    "visible": true
+   }
+  ],
+  "quickLinks": [
+   {
+    "icon": "CalendarDays",
+    "title": "Aaj ka Panchang",
+    "sub": "Tithi & muhurat",
+    "link": "/puja"
+   },
+   {
+    "icon": "Orbit",
+    "title": "Graha Shanti",
+    "sub": "Dosh nivaran",
+    "link": "/puja"
+   },
+   {
+    "icon": "Landmark",
+    "title": "Dham Puja",
+    "sub": "In your name",
+    "link": "/temples"
+   },
+   {
+    "icon": "Gem",
+    "title": "Gemstones",
+    "sub": "Lab certified",
+    "link": "/store/category/gemstones"
+   },
+   {
+    "icon": "CircleDot",
+    "title": "Japa Mala",
+    "sub": "Rudraksha & sphatik",
+    "link": "/store/category/japa-mala"
+   },
+   {
+    "icon": "Hexagon",
+    "title": "Yantra",
+    "sub": "Energised",
+    "link": "/store/category/yantra"
+   },
+   {
+    "icon": "Gift",
+    "title": "Braj Prasad",
+    "sub": "From Vrindavan",
+    "link": "/store/category/braj-prasad"
+   }
+  ],
+  "upcoming": {
+   "count": 8,
+   "source": "By date"
+  },
+  "templeSlugs": [
+   "banke-bihari",
+   "barsana-radha-rani",
+   "mayapur-chandrodaya",
+   "kalighat",
+   "trimbakeshwar",
+   "siddhivinayak",
+   "shani-shingnapur",
+   "salasar-balaji",
+   "basar-saraswati"
+  ],
+  "productTiles": [
+   {
+    "label": "Gemstones",
+    "link": "/store/category/gemstones",
+    "image": "/assets/images/product/emerald.webp",
+    "category": "gemstones"
+   },
+   {
+    "label": "Rudraksha & Mala",
+    "link": "/store/category/japa-mala",
+    "image": "/assets/images/product/rudraksha.webp",
+    "category": "japa-mala"
+   },
+   {
+    "label": "Yantra",
+    "link": "/store/category/yantra",
+    "image": "/assets/images/product/yantra.webp",
+    "category": "yantra"
+   },
+   {
+    "label": "Murti & Shringar",
+    "link": "/store/category/murti",
+    "image": "/assets/images/product/laddu-gopal-murti.webp",
+    "category": "murti"
+   },
+   {
+    "label": "Puja Essentials",
+    "link": "/store/category/puja-essentials",
+    "image": "/assets/images/product/copper-lota.webp",
+    "category": "puja-essentials"
+   },
+   {
+    "label": "Dhoop & Agarbatti",
+    "link": "/store/category/dhoop-agarbatti",
+    "image": "/assets/images/product/agarbatti.webp",
+    "category": "dhoop-agarbatti"
+   },
+   {
+    "label": "Jyotish Books",
+    "link": "/store/category/jyotish-books",
+    "image": "/assets/images/product/jyotish-granth.webp",
+    "category": "jyotish-books"
+   },
+   {
+    "label": "Braj Prasad",
+    "link": "/store/category/braj-prasad",
+    "image": "/assets/images/chadhava/peda.webp",
+    "category": "braj-prasad"
+   }
+  ],
+  "why": [
+   {
+    "icon": "Landmark",
+    "line1": "Temple",
+    "line2": "Partnerships"
+   },
+   {
+    "icon": "Orbit",
+    "line1": "Expert",
+    "line2": "Astrologers"
+   },
+   {
+    "icon": "BadgeCheck",
+    "line1": "Certified",
+    "line2": "Gemstones"
+   },
+   {
+    "icon": "Truck",
+    "line1": "All-India",
+    "line2": "Shipping"
+   },
+   {
+    "icon": "Headphones",
+    "line1": "Seva",
+    "line2": "Helpline"
+   }
+  ],
+  "bottomNav": [
+   {
+    "icon": "House",
+    "label": "Home",
+    "link": "/"
+   },
+   {
+    "icon": "CalendarDays",
+    "label": "Puja",
+    "link": "/puja"
+   },
+   {
+    "icon": "Landmark",
+    "label": "Dham",
+    "link": "/temples"
+   },
+   {
+    "icon": "ShoppingBag",
+    "label": "Shop",
+    "link": "/store"
+   },
+   {
+    "icon": "User",
+    "label": "Profile",
+    "link": "/account"
+   }
+  ]
+ },
+ "site": {
+  "name": "Radhika Astro",
+  "tagline": "Divine Grace, Vedic Insight",
+  "description": "Book pujas at sacred temples of India in your name and gotra, receive the puja video on WhatsApp and get the Aashirwad Box at your doorstep. Shop authentic gemstones, malas and puja essentials.",
+  "phone": "+91 90000 00000",
+  "whatsapp": "919000000000",
+  "email": "seva@radhikaastro.example",
+  "address": "12 Temple Road, Kolkata, West Bengal 700001",
+  "stats": [
+   {
+    "value": 850,
+    "suffix": "+",
+    "label": "Pujas performed"
+   },
+   {
+    "value": 12000,
+    "suffix": "+",
+    "label": "Devotees served"
+   },
+   {
+    "value": 18,
+    "suffix": "",
+    "label": "Partner temples"
+   },
+   {
+    "value": 4.9,
+    "suffix": "★",
+    "label": "Average rating",
+    "decimals": 1
+   }
+  ],
+  "freeShippingThreshold": 599,
+  "codFee": 59
+ },
+ "globalFaqs": [
+  {
+   "q": "How does Radhika Astro perform a puja in my name?",
+   "a": "Our partner pandits at each temple read out your name, gotra and wish during the sankalp, then perform the full vidhi. You receive the recorded video on WhatsApp."
+  },
+  {
+   "q": "My gotra is unknown. Can I still book?",
+   "a": "Yes. When the gotra is not known, the shastras allow the sankalp to be taken in Kashyap gotra. Just select “Gotra not known” on the booking form."
+  },
+  {
+   "q": "Do I need my kundli for graha shanti pujas?",
+   "a": "It is helpful but optional. Share your birth date, time and place and our astrologer will check the relevant dosh before the puja."
+  },
+  {
+   "q": "When will I get the video?",
+   "a": "Usually within 2–4 days of the puja date. Night pujas such as Kali Puja may take a day longer."
+  },
+  {
+   "q": "What comes in the Aashirwad Box?",
+   "a": "Prasad, a raksha sutra, kumkum or sindoor from the temple, and a blessed photo of the deity. It is shipped within 8–10 days."
+  },
+  {
+   "q": "Can I book for relatives in another city or country?",
+   "a": "Yes. Add their names in a Couple, Parivar or Sanyukt Parivar package. The video is shared with your WhatsApp number."
+  },
+  {
+   "q": "What if a puja cannot be performed?",
+   "a": "If we cannot perform a booked puja for any reason, the full amount is refunded to your original payment method."
+  },
+  {
+   "q": "How do I reach the seva team?",
+   "a": "Message us on WhatsApp or call the seva helpline from 8 AM to 9 PM IST, all days."
+  }
+ ],
+ "howItWorks": [
+  {
+   "title": "Select a puja",
+   "desc": "Choose a puja, graha shanti or chadhava and the package that fits your family.",
+   "icon": "Flower2"
+  },
+  {
+   "title": "Add names & gotra",
+   "desc": "Enter the names, gotra and your wish for the sankalp. Unsure of the gotra? Kashyap is used as per shastra.",
+   "icon": "ScrollText"
+  },
+  {
+   "title": "Puja in your name",
+   "desc": "Temple pandits perform the vidhi and the video reaches your WhatsApp in 2–4 days.",
+   "icon": "Video"
+  },
+  {
+   "title": "Prasad at home",
+   "desc": "Your Aashirwad Box with prasad and blessed items is delivered in 8–10 days.",
+   "icon": "Gift"
+  }
+ ],
+ "demoReviews": [
+  {
+   "name": "Moumita Sen",
+   "city": "Howrah",
+   "rating": 5,
+   "date": "1 week ago",
+   "text": "Booked Shyama Puja at Kalighat for my mother. Hearing our names in the sankalp on the video was very emotional. Prasad came neatly packed.",
+   "isDemo": true
+  },
+  {
+   "name": "Ankit Agarwal",
+   "city": "Jaipur",
+   "rating": 5,
+   "date": "3 weeks ago",
+   "text": "Did the Kaal Sarp puja through Radhika Astro. The astrologer checked my kundli first and explained everything patiently on call.",
+   "isDemo": true
+  },
+  {
+   "name": "Shreya Iyer",
+   "city": "Singapore",
+   "rating": 4,
+   "date": "1 month ago",
+   "text": "Very convenient from abroad. The Yugal Sarkar puja video was beautiful. Delivery of the box took a little longer to Singapore.",
+   "isDemo": true
+  },
+  {
+   "name": "Debasish Pal",
+   "city": "Siliguri",
+   "rating": 5,
+   "date": "2 months ago",
+   "text": "The Nepali rudraksha mala is genuine and well knotted. Fast delivery and good packing.",
+   "isDemo": true
+  }
+ ]
+}
